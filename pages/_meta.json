@@ -1,5 +1,5 @@
 {
-  "index": "Introduction",
+  "index": "🎉 欢迎使用 Aya",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
   "about": {
@@ -7,9 +7,9 @@
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "搬迁中",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://madoka315.gitbook.io/ayahelp",
     "newWindow": true
   }
 }
